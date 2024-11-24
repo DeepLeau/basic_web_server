@@ -45,8 +45,8 @@ This project is a basic web server written in Go that demonstrates handling stat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-web-server.git
-   cd simple-web-server
+   git clone https://github.com/DeepLeau/basic_web_server.git
+   cd basic_web_server
    ```
 
 2. Ensure the project structure is as follows:
